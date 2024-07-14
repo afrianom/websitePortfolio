@@ -1,12 +1,7 @@
 .scroll {
     margin-top: 80px;
     display: flex;
-}
-
-.scroll-item1 {
-    height: 150px;
-    width: 150px;
-    background-image: url('../../assets/bg-sections.jpg');
-    background-size: cover;
-    border-radius: 50%;
+    gap: 20px;
+    width: 80%;
+    overflow:hidden
 }
